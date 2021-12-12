@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+fxgl.jx.edu.cn	FALSE	/4136012929	FALSE		JSESSIONID	8B1CE67B5F51DE19295F7FBD16D581D8
