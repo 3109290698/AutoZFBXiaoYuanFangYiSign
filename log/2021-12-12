@@ -713,3 +713,274 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2176256175921512453}
 
 
 
+2021-12-12 18:50:31.640187
+历史定位签到模式
+多人签到模式202731,202732,202733,202734,202735,202737,202740,202728,202705,202744,202713,202700,202707,202698,202703,202709,202746,202743
+当前IP：20.114.177.153,
+
+ 美国DXCTechnology
+
+系统时间：2021-12-12 18:50:32
+UTC时间：2021-12-12 18:50:31
+北京时间：2021-12-13 02:50:31
+北京时间与系统时间误差：7:59:58.346539
+2021-12-12 18:50:32.653534:202731签到开始
+cookie文件存在
+cookie文件加载成功
+NAME朱林芝
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME朱林芝
+定位 115.843213，28.70737，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85475291886172,"lat":28.709796664317755},"formatted_address":"江西省南昌市青山湖区黄家湖立交","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"黄家湖立交","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843222&lat=28.707361&sfby=1
+签到成功
+2021-12-12 18:50:44.494879:202731签到结束
+2021-12-12 18:50:44.671903:202732签到开始
+cookie文件存在
+cookie文件加载成功
+NAME蓝超恒
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME蓝超恒
+定位 115.843209，28.707401，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85473688660183,"lat":28.7098432238929},"formatted_address":"江西省南昌市青山湖区黄家湖立交","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"黄家湖立交","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843206&lat=28.707407&sfby=1
+签到成功
+2021-12-12 18:50:55.987127:202732签到结束
+2021-12-12 18:50:56.123789:202733签到开始
+cookie文件存在
+cookie文件加载成功
+NAME李浩
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME李浩
+定位 115.843229，28.707365，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.8547599940069,"lat":28.709808526459086},"formatted_address":"江西省南昌市青山湖区黄家湖立交","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"黄家湖立交","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843229&lat=28.707373&sfby=1
+签到成功
+2021-12-12 18:51:07.407335:202733签到结束
+2021-12-12 18:51:07.657312:202734签到开始
+cookie文件存在
+cookie文件加载成功
+NAME吴建康
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME吴建康
+定位 115.843523，28.707074，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85504682648267,"lat":28.70950603168902},"formatted_address":"江西省南昌市青山湖区黄家湖立交","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"黄家湖立交","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843516&lat=28.707074&sfby=1
+签到成功
+2021-12-12 18:51:18.927808:202734签到结束
+2021-12-12 18:51:19.055090:202735签到开始
+cookie文件存在
+cookie文件加载成功
+NAME陈建福
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME陈建福
+定位 115.843753，28.707651，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85528306305165,"lat":28.710074679943639},"formatted_address":"江西省南昌市青山湖区黄家湖立交","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"黄家湖立交","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843752&lat=28.707645&sfby=1
+签到成功
+2021-12-12 18:51:30.552598:202735签到结束
+2021-12-12 18:51:30.643692:202737签到开始
+cookie文件存在
+cookie文件加载成功
+NAME田贤俊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME田贤俊
+定位 115.843203，28.707384，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85473280009005,"lat":28.709821292625798},"formatted_address":"江西省南昌市青山湖区黄家湖立交","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"黄家湖立交","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843202&lat=28.707385&sfby=1
+签到成功
+2021-12-12 18:51:59.123813:202737签到结束
+2021-12-12 18:51:59.295251:202740签到开始
+cookie文件存在
+cookie文件加载成功
+NAME杨勇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME杨勇
+定位 115.843914，28.708073，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85544798336503,"lat":28.710494871483815},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843917&lat=28.708067&sfby=1
+签到成功
+2021-12-12 18:52:14.824893:202740签到结束
+2021-12-12 18:52:15.058681:202728签到开始
+cookie文件存在
+cookie文件加载成功
+NAME林力智
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME林力智
+定位 115.846017，28.710212，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85754142086404,"lat":28.712613680293705},"formatted_address":"江西省南昌市青山湖区X012(黄家湖东路)","business":"凤凰洲,沙井","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"X012(黄家湖东路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.84601&lat=28.710207&sfby=1
+签到成功
+2021-12-12 18:52:27.112554:202728签到结束
+2021-12-12 18:52:27.297560:202705签到开始
+cookie文件存在
+cookie文件加载成功
+NAME涂泽云
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME涂泽云
+定位 115.845235，28.709924，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85677367440273,"lat":28.71233626457638},"formatted_address":"江西省南昌市青山湖区X012(黄家湖东路)","business":"凤凰洲,沙井","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"X012(黄家湖东路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.845242&lat=28.709922&sfby=1
+签到成功
+2021-12-12 18:52:38.874639:202705签到结束
+2021-12-12 18:52:39.055999:202744签到开始
+cookie文件存在
+cookie文件加载成功
+NAME方向荣
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME方向荣
+定位 115.843673，28.707736，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85520721337515,"lat":28.710159549987166},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843676&lat=28.707729&sfby=1
+签到成功
+2021-12-12 18:52:50.601364:202744签到结束
+2021-12-12 18:52:50.659937:202713签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘嘉宇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME刘嘉宇
+定位 115.843197，28.708745，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85473616964151,"lat":28.711187185245789},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843205&lat=28.70875&sfby=1
+签到成功
+2021-12-12 18:53:02.139342:202713签到结束
+2021-12-12 18:53:02.208791:202700签到开始
+cookie文件存在
+cookie文件加载成功
+NAME宗越
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME宗越
+定位 115.860283，28.515272，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.87174390659306,"lat":28.51753188374804},"formatted_address":"江西省南昌市南昌县莲富路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"莲富路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.860285&lat=28.515281&sfby=1
+签到成功
+2021-12-12 18:53:18.350250:202700签到结束
+2021-12-12 18:53:18.482573:202707签到开始
+cookie文件存在
+cookie文件加载成功
+NAME吴漪徉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME吴漪徉
+定位 115.843485，28.708282，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85502107653427,"lat":28.71071515698487},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.84349&lat=28.708282&sfby=1
+签到成功
+2021-12-12 18:53:29.552728:202707签到结束
+2021-12-12 18:53:29.601233:202698签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐琦
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME徐琦
+定位 115.843422，28.708896，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85496139533072,"lat":28.711320197737245},"formatted_address":"江西省南昌市青山湖区X012(黄家湖东路)","business":"凤凰洲,沙井","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"X012(黄家湖东路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.84343&lat=28.708886&sfby=1
+签到成功
+2021-12-12 18:53:41.408921:202698签到结束
+2021-12-12 18:53:41.628560:202703签到开始
+cookie文件存在
+cookie文件加载成功
+NAME吴爱清
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME吴爱清
+定位 115.842937，28.708807，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85447045589517,"lat":28.711257295923507},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.842939&lat=28.708817&sfby=1
+签到成功
+2021-12-12 18:53:53.473835:202703签到结束
+2021-12-12 18:53:53.714443:202709签到开始
+cookie文件存在
+cookie文件加载成功
+NAME陈奕廷
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME陈奕廷
+定位 115.84307，28.708941，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85459451433798,"lat":28.71138970972909},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843063&lat=28.708951&sfby=1
+签到成功
+2021-12-12 18:54:04.969592:202709签到结束
+2021-12-12 18:54:04.988068:202746签到开始
+cookie文件存在
+cookie文件加载成功
+NAME苏俊锋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME苏俊锋
+定位 115.843936，28.708125，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85546213967494,"lat":28.71055061498473},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843931&lat=28.708123&sfby=1
+签到成功
+2021-12-12 18:54:15.735195:202746签到结束
+2021-12-12 18:54:15.977965:202743签到开始
+cookie文件存在
+cookie文件加载成功
+NAME严鸿基
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME严鸿基
+定位 115.843771，28.707745，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.8553051184874,"lat":28.710167508434198},"formatted_address":"江西省南昌市青山湖区S49(西一环路)","business":"凤凰洲,沙井,会展路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"S49(西一环路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.843774&lat=28.707738&sfby=1
+签到成功
+2021-12-12 18:54:26.562218:202743签到结束
+18人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2176726305742864385}
+2021-12-12 18:54:30.223977程序结束
+######################################################################
+
+
+
+
