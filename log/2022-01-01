@@ -54,3 +54,39 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2205163957496135683}
 
 
 
+2022-01-01 18:52:21.713902
+输入定位签到模式
+单人签到模式
+当前IP：20.114.197.90,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-01 18:52:26
+UTC时间：2022-01-01 18:52:21
+北京时间：2022-01-02 02:52:21
+北京时间与系统时间误差：7:59:54.424101
+2022-01-01 18:52:26.575984:202713签到开始
+cookie文件存在
+cookie文件加载成功
+NAME刘嘉宇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.350315，26.336111，江西省赣州市兴国县潋江镇将军大道
+{"status":0,"result":{"location":{"lng":115.36203298976497,"lat":26.338819915147384},"formatted_address":"江西省赣州市兴国县瑶冈东路","business":"潋江大道,凤凰大道","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"兴国县","town":"","town_code":"","distance":"","direction":"","adcode":"360732","street":"瑶冈东路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%85%B4%E5%9B%BD%E5%8E%BF&street=%E6%BD%8B%E6%B1%9F%E9%95%87%E5%B0%86%E5%86%9B%E5%A4%A7%E9%81%93&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%B4%E5%9B%BD%E5%8E%BF%E6%BD%8B%E6%B1%9F%E9%95%87%E5%B0%86%E5%86%9B%E5%A4%A7%E9%81%93&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&bstreet=%E6%BD%8B%E6%B1%9F%E9%95%87%E5%B0%86%E5%86%9B%E5%A4%A7%E9%81%93&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&lng=115.350348&lat=26.33611&sfby=1
+NAME刘嘉宇
+定位 115.350348，26.33611，江西省赣州市兴国县潋江镇将军大道
+{"status":0,"result":{"location":{"lng":115.36210046207948,"lat":26.338890888388659},"formatted_address":"江西省赣州市兴国县瑶冈东路","business":"潋江大道,凤凰大道","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"兴国县","town":"","town_code":"","distance":"","direction":"","adcode":"360732","street":"瑶冈东路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%85%B4%E5%9B%BD%E5%8E%BF&street=%E6%BD%8B%E6%B1%9F%E9%95%87%E5%B0%86%E5%86%9B%E5%A4%A7%E9%81%93&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%B4%E5%9B%BD%E5%8E%BF%E6%BD%8B%E6%B1%9F%E9%95%87%E5%B0%86%E5%86%9B%E5%A4%A7%E9%81%93&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&bstreet=%E6%BD%8B%E6%B1%9F%E9%95%87%E5%B0%86%E5%86%9B%E5%A4%A7%E9%81%93&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%85%B4%E5%9B%BD%E5%8E%BF&lng=115.350415&lat=26.336182&sfby=1
+签到成功
+2022-01-01 18:52:58.210654:202713签到结束
+刘嘉宇202713签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2205715915537727488}
+2022-01-01 18:53:05.105675程序结束
+######################################################################
+
+
+
+
